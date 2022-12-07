@@ -1,0 +1,42 @@
+No module named 'petrel_client'
+init petrel failed
+No module named 'spring_aux'
+2022-12-07 15:11:02,123-rk0-normalize.py#37:[1;33mimport error No module named 'mqbench'; If you need Mqbench to quantize model,      you should add Mqbench to this project. Or just ignore this error.[0m
+2022-12-07 15:11:02,123-rk0-normalize.py#44:[1;33mimport error No module named 'msbench'; If you need Msbench to prune model,     you should add Msbench to this project. Or just ignore this error.[0m
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.8/runpy.py", line 185, in _run_module_as_main
+    mod_name, mod_spec, code = _get_module_details(mod_name, _Error)
+  File "/opt/conda/lib/python3.8/runpy.py", line 144, in _get_module_details
+    return _get_module_details(pkg_main_name, error)
+  File "/opt/conda/lib/python3.8/runpy.py", line 111, in _get_module_details
+    __import__(pkg_name)
+  File "/home/u2127085/United-Perception/up/__init__.py", line 24, in <module>
+    from .models import *
+  File "/home/u2127085/United-Perception/up/models/__init__.py", line 1, in <module>
+    from .backbones import * # noqa
+  File "/home/u2127085/United-Perception/up/models/backbones/__init__.py", line 1, in <module>
+    from .kingnet import kingnet42  #kingnet
+  File "/home/u2127085/United-Perception/up/models/backbones/kingnet.py", line 376, in <module>
+    speed("kingnet")
+  File "/home/u2127085/United-Perception/up/models/backbones/kingnet.py", line 355, in speed
+    output = model(data)
+  File "/home/u2127085/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/u2127085/United-Perception/up/models/backbones/kingnet.py", line 266, in forward
+    x = self.base[i](x)
+  File "/home/u2127085/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/u2127085/United-Perception/up/models/backbones/kingnet.py", line 64, in forward
+    x = self.conv(x)
+  File "/home/u2127085/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/u2127085/.local/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 446, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/home/u2127085/.local/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 442, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+TypeError: conv2d() received an invalid combination of arguments - got (dict, Parameter, NoneType, tuple, tuple, tuple, int), but expected one of:
+ * (Tensor input, Tensor weight, Tensor bias, tuple of ints stride, tuple of ints padding, tuple of ints dilation, int groups)
+      didn't match because some of the arguments have invalid types: (!dict!, !Parameter!, !NoneType!, !tuple!, !tuple!, !tuple!, int)
+ * (Tensor input, Tensor weight, Tensor bias, tuple of ints stride, str padding, tuple of ints dilation, int groups)
+      didn't match because some of the arguments have invalid types: (!dict!, !Parameter!, !NoneType!, !tuple!, !tuple!, !tuple!, int)
+

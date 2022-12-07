@@ -1,3 +1,8 @@
+from .kingnet import kingnet42  #kingnet
+from .kingnet import kingnet24  #kingnet
+from .kingnet import kingnet20  #kingnet
+from .hardnet import hardnet39_ds  #hardnet
+
 from .mobilenet_v2 import mobilenetv2  # noqa: F401
 from .mobilenet_v3 import mobilenetv3  # noqa: F401
 from .resnet import (resnet101,  # noqa

@@ -1,0 +1,839 @@
+No module named 'petrel_client'
+init petrel failed
+No module named 'spring_aux'
+2022-12-07 11:21:50,823-rk0-normalize.py#37:[1;33mimport error No module named 'mqbench'; If you need Mqbench to quantize model,      you should add Mqbench to this project. Or just ignore this error.[0m
+2022-12-07 11:21:50,824-rk0-normalize.py#44:[1;33mimport error No module named 'msbench'; If you need Msbench to prune model,     you should add Msbench to this project. Or just ignore this error.[0m
+Inference time                   (iter     2):  357.67501 fps
+Inference time                   (iter     3):  209.11917 fps
+Inference time                   (iter     4):  208.66831 fps
+Inference time                   (iter     5):  208.66438 fps
+Inference time                   (iter     6):  391.01862 fps
+Inference time                   (iter     7):  393.62721 fps
+Inference time                   (iter     8):  391.38349 fps
+Inference time                   (iter     9):  391.56918 fps
+Inference time                   (iter    10):  392.02180 fps
+Inference time                   (iter    11):  391.62974 fps
+Inference time                   (iter    12):  390.96850 fps
+Inference time                   (iter    13):  392.41393 fps
+Inference time                   (iter    14):  392.95980 fps
+Inference time                   (iter    15):  392.64395 fps
+Inference time                   (iter    16):  393.18068 fps
+Inference time                   (iter    17):  393.29330 fps
+Inference time                   (iter    18):  393.65203 fps
+Inference time                   (iter    19):  391.07715 fps
+Inference time                   (iter    20):  391.01463 fps
+Inference time                   (iter    21):  392.48593 fps
+Inference time                   (iter    22):  392.07018 fps
+Inference time                   (iter    23):  391.04981 fps
+Inference time                   (iter    24):  390.78680 fps
+Inference time                   (iter    25):  390.86020 fps
+Inference time                   (iter    26):  390.71840 fps
+Inference time                   (iter    27):  391.26982 fps
+Inference time                   (iter    28):  391.33243 fps
+Inference time                   (iter    29):  394.86429 fps
+Inference time                   (iter    30):  390.88581 fps
+Inference time                   (iter    31):  391.20411 fps
+Inference time                   (iter    32):  391.13186 fps
+Inference time                   (iter    33):  390.91655 fps
+Inference time                   (iter    34):  391.32073 fps
+Inference time                   (iter    35):  392.39686 fps
+Inference time                   (iter    36):  392.31356 fps
+Inference time                   (iter    37):  391.26612 fps
+Inference time                   (iter    38):  390.66949 fps
+Inference time                   (iter    39):  391.32073 fps
+Inference time                   (iter    40):  391.15309 fps
+Inference time                   (iter    41):  390.91612 fps
+Inference time                   (iter    42):  391.77149 fps
+Inference time                   (iter    43):  392.04384 fps
+Inference time                   (iter    44):  390.62359 fps
+Inference time                   (iter    45):  391.33342 fps
+Inference time                   (iter    46):  391.07758 fps
+Inference time                   (iter    47):  391.15736 fps
+Inference time                   (iter    48):  391.03015 fps
+Inference time                   (iter    49):  392.11270 fps
+Inference time                   (iter    50):  392.01307 fps
+Inference time                   (iter    51):  391.97987 fps
+Inference time                   (iter    52):  390.98929 fps
+Inference time                   (iter    53):  390.81610 fps
+Inference time                   (iter    54):  390.82762 fps
+Inference time                   (iter    55):  390.86148 fps
+Inference time                   (iter    56):  390.96523 fps
+Inference time                   (iter    57):  392.16798 fps
+Inference time                   (iter    58):  392.22443 fps
+Inference time                   (iter    59):  390.72949 fps
+Inference time                   (iter    60):  391.19826 fps
+Inference time                   (iter    61):  390.91968 fps
+Inference time                   (iter    62):  390.78196 fps
+Inference time                   (iter    63):  391.35396 fps
+Inference time                   (iter    64):  391.73761 fps
+Inference time                   (iter    65):  391.94581 fps
+Inference time                   (iter    66):  390.80543 fps
+Inference time                   (iter    67):  391.13058 fps
+Inference time                   (iter    68):  391.03471 fps
+Inference time                   (iter    69):  390.82577 fps
+Inference time                   (iter    70):  390.57514 fps
+Inference time                   (iter    71):  392.43128 fps
+Inference time                   (iter    72):  391.71560 fps
+Inference time                   (iter    73):  391.04525 fps
+Inference time                   (iter    74):  390.87642 fps
+Inference time                   (iter    75):  391.03756 fps
+Inference time                   (iter    76):  391.04824 fps
+Inference time                   (iter    77):  390.93705 fps
+Inference time                   (iter    78):  391.66688 fps
+Inference time                   (iter    79):  392.05816 fps
+Inference time                   (iter    80):  392.47776 fps
+Inference time                   (iter    81):  390.83687 fps
+Inference time                   (iter    82):  390.73176 fps
+Inference time                   (iter    83):  390.87571 fps
+Inference time                   (iter    84):  390.84213 fps
+Inference time                   (iter    85):  391.06975 fps
+Inference time                   (iter    86):  391.75105 fps
+Inference time                   (iter    87):  392.22299 fps
+Inference time                   (iter    88):  390.94231 fps
+Inference time                   (iter    89):  390.89577 fps
+Inference time                   (iter    90):  390.50894 fps
+Inference time                   (iter    91):  390.75011 fps
+Inference time                   (iter    92):  391.54334 fps
+Inference time                   (iter    93):  391.95483 fps
+Inference time                   (iter    94):  391.86328 fps
+Inference time                   (iter    95):  391.15750 fps
+Inference time                   (iter    96):  391.12958 fps
+Inference time                   (iter    97):  390.97164 fps
+Inference time                   (iter    98):  391.15665 fps
+Inference time                   (iter    99):  390.79803 fps
+Inference time                   (iter   100):  391.94824 fps
+381.7379205187099
+node memory info before build {'node_mem_total': 754.375, 'node_mem_used': 62.89, 'node_mem_used_percent': 9.2, 'node_swap_mem_total': 0.0, 'node_swap_mem_used_percent': 0.0}
+2022-12-07 11:21:58,101-rk0-base_runner.py#229:world size:1
+fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2022-12-07 11:21:58,210-rk0-base_runner.py#276:current git version 
+2022-12-07 11:21:58,333-rk0-data_builder.py#49:[1;33mWe use dist_test instead of dist for test.                     If you use a rank based dataset,                     you need to use the local_test as the test sampler[0m
+2022-12-07 11:21:58,334-rk0-base_runner.py#178:build test:test done
+2022-12-07 11:21:58,733-rk0-base_runner.py#645:.backbone (KingNet())
+         .base (ModuleList())
+              .0 (ConvBnAct())
+                .conv (Conv2d(3, 6, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False))
+                     - weight: torch.float32
+                .bn (BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                   - weight: torch.float32
+                   - bias: torch.float32
+                .act (ReLU6(inplace=True))
+              .1 (ConvBnAct())
+                .conv (Conv2d(6, 12, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False))
+                     - weight: torch.float32
+                .bn (BatchNorm2d(12, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                   - weight: torch.float32
+                   - bias: torch.float32
+                .act (ReLU6(inplace=True))
+              .2 (KingBlock())
+                .layers (ModuleList())
+                       .0 (ConvBnAct())
+                         .conv (Conv2d(4, 4, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(4, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .1 (ConvBnAct())
+                         .conv (Conv2d(8, 8, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .2 (ConvBnAct())
+                         .conv (Conv2d(4, 4, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(4, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .3 (ConvBnAct())
+                         .conv (Conv2d(12, 12, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(12, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+              .3 (ConvBnAct())
+                .conv (Conv2d(20, 24, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False))
+                     - weight: torch.float32
+                .bn (BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                   - weight: torch.float32
+                   - bias: torch.float32
+                .act (ReLU6(inplace=True))
+              .4 (KingBlock())
+                .layers (ModuleList())
+                       .0 (ConvBnAct())
+                         .conv (Conv2d(8, 8, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .1 (ConvBnAct())
+                         .conv (Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .2 (ConvBnAct())
+                         .conv (Conv2d(8, 8, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .3 (ConvBnAct())
+                         .conv (Conv2d(24, 24, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+              .5 (ConvBnAct())
+                .conv (Conv2d(40, 48, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False))
+                     - weight: torch.float32
+                .bn (BatchNorm2d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                   - weight: torch.float32
+                   - bias: torch.float32
+                .act (ReLU6(inplace=True))
+              .6 (KingBlock())
+                .layers (ModuleList())
+                       .0 (ConvBnAct())
+                         .conv (Conv2d(12, 12, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(12, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .1 (ConvBnAct())
+                         .conv (Conv2d(24, 24, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .2 (ConvBnAct())
+                         .conv (Conv2d(12, 12, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(12, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .3 (ConvBnAct())
+                         .conv (Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .4 (ConvBnAct())
+                         .conv (Conv2d(12, 12, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(12, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .5 (ConvBnAct())
+                         .conv (Conv2d(24, 24, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .6 (ConvBnAct())
+                         .conv (Conv2d(12, 12, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(12, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .7 (ConvBnAct())
+                         .conv (Conv2d(48, 48, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+              .7 (ConvBnAct())
+                .conv (Conv2d(96, 96, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False))
+                     - weight: torch.float32
+                .bn (BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                   - weight: torch.float32
+                   - bias: torch.float32
+                .act (ReLU6(inplace=True))
+              .8 (KingBlock())
+                .layers (ModuleList())
+                       .0 (ConvBnAct())
+                         .conv (Conv2d(24, 24, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .1 (ConvBnAct())
+                         .conv (Conv2d(48, 48, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .2 (ConvBnAct())
+                         .conv (Conv2d(24, 24, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .3 (ConvBnAct())
+                         .conv (Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .4 (ConvBnAct())
+                         .conv (Conv2d(24, 24, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .5 (ConvBnAct())
+                         .conv (Conv2d(48, 48, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(48, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .6 (ConvBnAct())
+                         .conv (Conv2d(24, 24, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+                       .7 (ConvBnAct())
+                         .conv (Conv2d(96, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False))
+                              - weight: torch.float32
+                         .bn (BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True))
+                            - weight: torch.float32
+                            - bias: torch.float32
+                         .act (ReLU6(inplace=True))
+.head (BaseClsHead())
+     .classifier (Linear(in_features=192, out_features=89, bias=True))
+                - weight: torch.float32
+                - bias: torch.float32
+     .pool (AdaptiveAvgPool2d(output_size=(1, 1)))
+.post_process (BaseClsPostProcess())
+             .cls_loss (SoftmaxEQLLoss())
+2022-12-07 11:21:58,992-rk0-base_runner.py#297:build hooks done
+2022-12-07 11:21:58,992-rk0-saver_helper.py#61:[1;33mLoad checkpoint from /tmp/output/kingnet24_0.25_100_epoch_strikes_bce_eql/checkpoints/cls_std/ckpt_latest.pth[0m
+2022-12-07 11:21:59,749-rk0-model_helper.py#146:Try to load the whole resume model or pretrained detection model...
+2022-12-07 11:21:59,755-rk0-model_helper.py#208:Loading model:179 shared keys, 0 unexpected keys, 0 missing keys.
+2022-12-07 11:21:59,755-rk0-gene_env.py#20:Collecting env info (might take some time)
+2022-12-07 11:22:05,370-rk0-gene_env.py#22:
+PyTorch version: 1.10.0+cu102
+Is debug build: False
+CUDA used to build PyTorch: 10.2
+ROCM used to build PyTorch: N/A
+
+OS: Ubuntu 20.04.2 LTS (x86_64)
+GCC version: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
+Clang version: Could not collect
+CMake version: version 3.21.1
+Libc version: glibc-2.31
+
+Python version: 3.8.10 | packaged by conda-forge | (default, May 11 2021, 07:01:05)  [GCC 9.3.0] (64-bit runtime)
+Python platform: Linux-3.10.0-1127.el7.x86_64-x86_64-with-glibc2.10
+Is CUDA available: True
+CUDA runtime version: 11.4.100
+GPU models and configuration: 
+GPU 0: Tesla V100-SXM2-32GB
+GPU 1: Tesla V100-SXM2-32GB
+
+Nvidia driver version: 450.119.04
+cuDNN version: Probably one of the following:
+/usr/lib/x86_64-linux-gnu/libcudnn.so.8.2.2
+/usr/lib/x86_64-linux-gnu/libcudnn_adv_infer.so.8.2.2
+/usr/lib/x86_64-linux-gnu/libcudnn_adv_train.so.8.2.2
+/usr/lib/x86_64-linux-gnu/libcudnn_cnn_infer.so.8.2.2
+/usr/lib/x86_64-linux-gnu/libcudnn_cnn_train.so.8.2.2
+/usr/lib/x86_64-linux-gnu/libcudnn_ops_infer.so.8.2.2
+/usr/lib/x86_64-linux-gnu/libcudnn_ops_train.so.8.2.2
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+
+Versions of relevant libraries:
+[pip3] efficientnet-pytorch==0.7.1
+[pip3] mypy-extensions==0.4.3
+[pip3] numpy==1.22.4
+[pip3] nvidia-dlprof-pytorch-nvtx==1.4.0
+[pip3] pytorch-quantization==2.1.0
+[pip3] torch==1.10.0
+[pip3] torchaudio==0.9.1
+[pip3] torchstat==0.0.7
+[pip3] torchsummary==1.5.1
+[pip3] torchtext==0.11.0a0
+[pip3] torchvision==0.11.1
+[conda] magma-cuda110             2.5.2                         5    local
+[conda] mkl                       2019.5                      281    conda-forge
+[conda] mkl-include               2019.5                      281    conda-forge
+[conda] numpy                     1.21.2           py38he2449b9_0    conda-forge
+[conda] nvidia-dlprof-pytorch-nvtx 1.4.0                    pypi_0    pypi
+[conda] pytorch-quantization      2.1.0                    pypi_0    pypi
+[conda] torch                     1.10.0a0+3fd9dcf          pypi_0    pypi
+[conda] torchtext                 0.11.0a0                 pypi_0    pypi
+[conda] torchvision               0.11.0a0                 pypi_0    pypi
+2022-12-07 11:22:05,377-rk0-base_runner.py#110:Running with config:
+{
+  num_classes: 89,
+  runtime: {
+    task_names: cls,
+    runner: {
+      type: base,
+      kwargs: {
+        work_dir: /tmp/output/,
+        training: false
+      }
+    },
+    rank_init: false,
+    random_seed: 131,
+    aligned: false,
+    iter_base: false,
+    device: cuda,
+    async_norm: false,
+    special_bn_init: false,
+    model_helper: {
+      type: base,
+      kwargs: {}
+    }
+  },
+  random_resized_crop: {
+    type: torch_random_resized_crop,
+    kwargs: {
+      size: 112,
+      scale: [0.08, 1]
+    }
+  },
+  random_horizontal_flip: {
+    type: torch_random_horizontal_flip
+  },
+  pil_color_jitter: {
+    type: torch_color_jitter,
+    kwargs: {
+      brightness: 0.4,
+      contrast: 0.4,
+      saturation: 0.4
+    }
+  },
+  center_crop: {
+    type: torch_center_crop,
+    kwargs: {
+      size: 112
+    }
+  },
+  torch_size: {
+    type: torch_resize,
+    kwargs: {
+      size: 128
+    }
+  },
+  to_tensor: {
+    type: to_tensor
+  },
+  normalize: {
+    type: normalize,
+    kwargs: {
+      mean: [0.485, 0.456, 0.406],
+      std: [0.229, 0.224, 0.225]
+    }
+  },
+  dataset: {
+    train: {
+      dataset: {
+        type: cls,
+        kwargs: {
+          meta_file: /work/u2127085/Pratical_DL/train.txt,
+          image_reader: {
+            type: fs_pillow,
+            kwargs: {
+              image_dir: /work/u2127085/Pratical_DL/,
+              color_mode: RGB
+            }
+          },
+          transformer: [
+            {
+              type: torch_random_resized_crop,
+              kwargs: {
+                size: 112,
+                scale: [0.08, 1]
+              }
+            },
+            {
+              type: torch_random_horizontal_flip
+            },
+            {
+              type: torch_color_jitter,
+              kwargs: {
+                brightness: 0.4,
+                contrast: 0.4,
+                saturation: 0.4
+              }
+            },
+            {
+              type: to_tensor
+            },
+            {
+              type: normalize,
+              kwargs: {
+                mean: [0.485, 0.456, 0.406],
+                std: [0.229, 0.224, 0.225]
+              }
+            }
+          ]
+        }
+      },
+      batch_sampler: {
+        type: base,
+        kwargs: {
+          sampler: {
+            type: dist,
+            kwargs: {}
+          },
+          batch_size: 64
+        }
+      },
+      dataloader: {
+        type: cls_base,
+        kwargs: {
+          num_workers: 4,
+          pin_memory: true
+        }
+      }
+    },
+    test: {
+      dataset: {
+        type: cls,
+        kwargs: {
+          meta_file: /work/u2127085/Pratical_DL/train.txt,
+          image_reader: {
+            type: fs_pillow,
+            kwargs: {
+              image_dir: /work/u2127085/Pratical_DL/,
+              color_mode: RGB
+            }
+          },
+          transformer: [
+            {
+              type: torch_resize,
+              kwargs: {
+                size: 128
+              }
+            },
+            {
+              type: torch_center_crop,
+              kwargs: {
+                size: 112
+              }
+            },
+            {
+              type: to_tensor
+            },
+            {
+              type: normalize,
+              kwargs: {
+                mean: [0.485, 0.456, 0.406],
+                std: [0.229, 0.224, 0.225]
+              }
+            }
+          ],
+          evaluator: {
+            type: imagenet,
+            kwargs: {
+              topk: [1, 5]
+            }
+          }
+        }
+      },
+      batch_sampler: {
+        type: base,
+        kwargs: {
+          sampler: {
+            type: dist,
+            kwargs: {}
+          },
+          batch_size: 32
+        }
+      },
+      dataloader: {
+        type: cls_base,
+        kwargs: {
+          num_workers: 4,
+          pin_memory: false
+        }
+      }
+    },
+    builder_type: base,
+    data_pool: [
+      train:train,
+      test:test
+    ]
+  },
+  ema: {
+    enable: false,
+    kwargs: {
+      decay: 0.9999
+    }
+  },
+  trainer: {
+    max_epoch: 100,
+    test_freq: 5,
+    save_freq: 5,
+    only_save_latest: true,
+    optimizer: {
+      type: LAMB,
+      kwargs: {
+        lr: 0.008,
+        weight_decay: 0.02
+      }
+    },
+    lr_scheduler: {
+      warmup_iter: 200,
+      warmup_type: linear,
+      warmup_register_type: no_scale_lr,
+      warmup_ratio: 0.02,
+      type: CosineAnnealingLR,
+      kwargs: {
+        T_max: 100,
+        eta_min: 0.0,
+        warmup_iter: 200
+      }
+    }
+  },
+  saver: {
+    save_dir: /tmp/output/kingnet24_0.25_100_epoch_strikes_bce_eql/checkpoints/cls_std,
+    results_dir: /tmp/output/kingnet24_0.25_100_epoch_strikes_bce_eql/results_dir/cls_std,
+    auto_resume: true
+  },
+  net: [
+    {
+      name: backbone,
+      type: kingnet24,
+      kwargs: {
+        frozen_layers: [],
+        out_layers: [4],
+        out_strides: [32],
+        normalize: {
+          type: solo_bn
+        },
+        initializer: {
+          method: msra
+        }
+      }
+    },
+    {
+      name: head,
+      type: base_cls_head,
+      kwargs: {
+        num_classes: 89,
+        in_plane: 192,
+        input_feature_idx: -1
+      }
+    },
+    {
+      name: post_process,
+      type: base_cls_postprocess,
+      kwargs: {
+        cls_loss: {
+          type: softmax_eql,
+          kwargs: {
+            num_classes: 89,
+            indicator: pos,
+            tau: 1.0
+          }
+        }
+      }
+    }
+  ],
+  args: {
+    ddp: false,
+    config_path: /home/u2127085/United-Perception/kingnet_100_epoch_bce.yaml,
+    opts: null
+  }
+}
+node memory info after build {'node_mem_total': 754.375, 'node_mem_used': 62.913, 'node_mem_used_percent': 9.2, 'node_swap_mem_total': 0.0, 'node_swap_mem_used_percent': 0.0}
+2022-12-07 11:22:05,379-rk0-toonnx_helper.py#85:save_prefix:toonnx/toonnx.onnx
+before detector forward
+detector output:dict_keys(['image_info', 'image', 'features', 'strides', 'logits', 'deploy_output_node', 'preds', 'scores'])
+before detector forward
+detector output:dict_keys(['image_info', 'image', 'features', 'strides', 'logits', 'deploy_output_node', 'preds', 'scores'])
+graph(%data : Float(1, 3, 112, 112, strides=[37632, 12544, 112, 1], requires_grad=0, device=cpu),
+      %detector.head.classifier.weight : Float(89, 192, strides=[192, 1], requires_grad=1, device=cpu),
+      %detector.head.classifier.bias : Float(89, strides=[1], requires_grad=1, device=cpu),
+      %332 : Float(6, 3, 3, 3, strides=[27, 9, 3, 1], requires_grad=0, device=cpu),
+      %333 : Float(6, strides=[1], requires_grad=0, device=cpu),
+      %335 : Float(12, 6, 3, 3, strides=[54, 9, 3, 1], requires_grad=0, device=cpu),
+      %336 : Float(12, strides=[1], requires_grad=0, device=cpu),
+      %338 : Float(4, 4, 3, 3, strides=[36, 9, 3, 1], requires_grad=0, device=cpu),
+      %339 : Float(4, strides=[1], requires_grad=0, device=cpu),
+      %341 : Float(8, 8, 3, 3, strides=[72, 9, 3, 1], requires_grad=0, device=cpu),
+      %342 : Float(8, strides=[1], requires_grad=0, device=cpu),
+      %344 : Float(4, 4, 3, 3, strides=[36, 9, 3, 1], requires_grad=0, device=cpu),
+      %345 : Float(4, strides=[1], requires_grad=0, device=cpu),
+      %347 : Float(12, 12, 3, 3, strides=[108, 9, 3, 1], requires_grad=0, device=cpu),
+      %348 : Float(12, strides=[1], requires_grad=0, device=cpu),
+      %350 : Float(24, 20, 3, 3, strides=[180, 9, 3, 1], requires_grad=0, device=cpu),
+      %351 : Float(24, strides=[1], requires_grad=0, device=cpu),
+      %353 : Float(8, 8, 3, 3, strides=[72, 9, 3, 1], requires_grad=0, device=cpu),
+      %354 : Float(8, strides=[1], requires_grad=0, device=cpu),
+      %356 : Float(16, 16, 3, 3, strides=[144, 9, 3, 1], requires_grad=0, device=cpu),
+      %357 : Float(16, strides=[1], requires_grad=0, device=cpu),
+      %359 : Float(8, 8, 3, 3, strides=[72, 9, 3, 1], requires_grad=0, device=cpu),
+      %360 : Float(8, strides=[1], requires_grad=0, device=cpu),
+      %362 : Float(24, 24, 3, 3, strides=[216, 9, 3, 1], requires_grad=0, device=cpu),
+      %363 : Float(24, strides=[1], requires_grad=0, device=cpu),
+      %365 : Float(48, 40, 3, 3, strides=[360, 9, 3, 1], requires_grad=0, device=cpu),
+      %366 : Float(48, strides=[1], requires_grad=0, device=cpu),
+      %368 : Float(12, 12, 3, 3, strides=[108, 9, 3, 1], requires_grad=0, device=cpu),
+      %369 : Float(12, strides=[1], requires_grad=0, device=cpu),
+      %371 : Float(24, 24, 3, 3, strides=[216, 9, 3, 1], requires_grad=0, device=cpu),
+      %372 : Float(24, strides=[1], requires_grad=0, device=cpu),
+      %374 : Float(12, 12, 3, 3, strides=[108, 9, 3, 1], requires_grad=0, device=cpu),
+      %375 : Float(12, strides=[1], requires_grad=0, device=cpu),
+      %377 : Float(36, 36, 3, 3, strides=[324, 9, 3, 1], requires_grad=0, device=cpu),
+      %378 : Float(36, strides=[1], requires_grad=0, device=cpu),
+      %380 : Float(12, 12, 3, 3, strides=[108, 9, 3, 1], requires_grad=0, device=cpu),
+      %381 : Float(12, strides=[1], requires_grad=0, device=cpu),
+      %383 : Float(24, 24, 3, 3, strides=[216, 9, 3, 1], requires_grad=0, device=cpu),
+      %384 : Float(24, strides=[1], requires_grad=0, device=cpu),
+      %386 : Float(12, 12, 3, 3, strides=[108, 9, 3, 1], requires_grad=0, device=cpu),
+      %387 : Float(12, strides=[1], requires_grad=0, device=cpu),
+      %389 : Float(48, 48, 3, 3, strides=[432, 9, 3, 1], requires_grad=0, device=cpu),
+      %390 : Float(48, strides=[1], requires_grad=0, device=cpu),
+      %392 : Float(96, 96, 3, 3, strides=[864, 9, 3, 1], requires_grad=0, device=cpu),
+      %393 : Float(96, strides=[1], requires_grad=0, device=cpu),
+      %395 : Float(24, 24, 3, 3, strides=[216, 9, 3, 1], requires_grad=0, device=cpu),
+      %396 : Float(24, strides=[1], requires_grad=0, device=cpu),
+      %398 : Float(48, 48, 3, 3, strides=[432, 9, 3, 1], requires_grad=0, device=cpu),
+      %399 : Float(48, strides=[1], requires_grad=0, device=cpu),
+      %401 : Float(24, 24, 3, 3, strides=[216, 9, 3, 1], requires_grad=0, device=cpu),
+      %402 : Float(24, strides=[1], requires_grad=0, device=cpu),
+      %404 : Float(72, 72, 3, 3, strides=[648, 9, 3, 1], requires_grad=0, device=cpu),
+      %405 : Float(72, strides=[1], requires_grad=0, device=cpu),
+      %407 : Float(24, 24, 3, 3, strides=[216, 9, 3, 1], requires_grad=0, device=cpu),
+      %408 : Float(24, strides=[1], requires_grad=0, device=cpu),
+      %410 : Float(48, 48, 3, 3, strides=[432, 9, 3, 1], requires_grad=0, device=cpu),
+      %411 : Float(48, strides=[1], requires_grad=0, device=cpu),
+      %413 : Float(24, 24, 3, 3, strides=[216, 9, 3, 1], requires_grad=0, device=cpu),
+      %414 : Float(24, strides=[1], requires_grad=0, device=cpu),
+      %416 : Float(96, 96, 3, 3, strides=[864, 9, 3, 1], requires_grad=0, device=cpu),
+      %417 : Float(96, strides=[1], requires_grad=0, device=cpu)):
+  %331 : Float(1, 6, 56, 56, strides=[18816, 3136, 56, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[2, 2]](%data, %332, %333)
+  %182 : Float(1, 6, 56, 56, strides=[18816, 3136, 56, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%331) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %334 : Float(1, 12, 28, 28, strides=[9408, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[2, 2]](%182, %335, %336)
+  %185 : Float(1, 12, 28, 28, strides=[9408, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%334) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %186 : Float(1, 4, 28, 28, strides=[9408, 784, 28, 1], requires_grad=0, device=cpu), %187 : Float(1, 4, 28, 28, strides=[9408, 784, 28, 1], requires_grad=0, device=cpu), %188 : Float(1, 4, 28, 28, strides=[9408, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[4, 4, 4]](%185) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %337 : Float(1, 4, 28, 28, strides=[3136, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%186, %338, %339)
+  %191 : Float(1, 4, 28, 28, strides=[3136, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%337) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %192 : Float(1, 4, 28, 28, strides=[3136, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[4]](%191) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %193 : Float(1, 8, 28, 28, strides=[6272, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%187, %192) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %340 : Float(1, 8, 28, 28, strides=[6272, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%193, %341, %342)
+  %196 : Float(1, 8, 28, 28, strides=[6272, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%340) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %197 : Float(1, 4, 28, 28, strides=[6272, 784, 28, 1], requires_grad=0, device=cpu), %198 : Float(1, 4, 28, 28, strides=[6272, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[4, 4]](%196) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %343 : Float(1, 4, 28, 28, strides=[3136, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%197, %344, %345)
+  %201 : Float(1, 4, 28, 28, strides=[3136, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%343) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %202 : Float(1, 4, 28, 28, strides=[3136, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[4]](%201) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %203 : Float(1, 12, 28, 28, strides=[9408, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%188, %198, %202) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %346 : Float(1, 12, 28, 28, strides=[9408, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%203, %347, %348)
+  %206 : Float(1, 12, 28, 28, strides=[9408, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%346) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %207 : Float(1, 20, 28, 28, strides=[15680, 784, 28, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%196, %206) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:181:0
+  %349 : Float(1, 24, 14, 14, strides=[4704, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[2, 2]](%207, %350, %351)
+  %210 : Float(1, 24, 14, 14, strides=[4704, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%349) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %211 : Float(1, 8, 14, 14, strides=[4704, 196, 14, 1], requires_grad=0, device=cpu), %212 : Float(1, 8, 14, 14, strides=[4704, 196, 14, 1], requires_grad=0, device=cpu), %213 : Float(1, 8, 14, 14, strides=[4704, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[8, 8, 8]](%210) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %352 : Float(1, 8, 14, 14, strides=[1568, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%211, %353, %354)
+  %216 : Float(1, 8, 14, 14, strides=[1568, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%352) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %217 : Float(1, 8, 14, 14, strides=[1568, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[8]](%216) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %218 : Float(1, 16, 14, 14, strides=[3136, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%212, %217) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %355 : Float(1, 16, 14, 14, strides=[3136, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%218, %356, %357)
+  %221 : Float(1, 16, 14, 14, strides=[3136, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%355) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %222 : Float(1, 8, 14, 14, strides=[3136, 196, 14, 1], requires_grad=0, device=cpu), %223 : Float(1, 8, 14, 14, strides=[3136, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[8, 8]](%221) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %358 : Float(1, 8, 14, 14, strides=[1568, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%222, %359, %360)
+  %226 : Float(1, 8, 14, 14, strides=[1568, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%358) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %227 : Float(1, 8, 14, 14, strides=[1568, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[8]](%226) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %228 : Float(1, 24, 14, 14, strides=[4704, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%213, %223, %227) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %361 : Float(1, 24, 14, 14, strides=[4704, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%228, %362, %363)
+  %231 : Float(1, 24, 14, 14, strides=[4704, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%361) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %232 : Float(1, 40, 14, 14, strides=[7840, 196, 14, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%221, %231) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:181:0
+  %364 : Float(1, 48, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[2, 2]](%232, %365, %366)
+  %235 : Float(1, 48, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%364) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %236 : Float(1, 12, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu), %237 : Float(1, 12, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu), %238 : Float(1, 12, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu), %239 : Float(1, 12, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[12, 12, 12, 12]](%235) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %367 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%236, %368, %369)
+  %242 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%367) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %243 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[12]](%242) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %244 : Float(1, 24, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%237, %243) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %370 : Float(1, 24, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%244, %371, %372)
+  %247 : Float(1, 24, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%370) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %248 : Float(1, 12, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu), %249 : Float(1, 12, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[12, 12]](%247) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %373 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%248, %374, %375)
+  %252 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%373) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %253 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[12]](%252) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %254 : Float(1, 36, 7, 7, strides=[1764, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%238, %249, %253) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %376 : Float(1, 36, 7, 7, strides=[1764, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%254, %377, %378)
+  %257 : Float(1, 36, 7, 7, strides=[1764, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%376) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %258 : Float(1, 12, 7, 7, strides=[1764, 49, 7, 1], requires_grad=0, device=cpu), %259 : Float(1, 12, 7, 7, strides=[1764, 49, 7, 1], requires_grad=0, device=cpu), %260 : Float(1, 12, 7, 7, strides=[1764, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[12, 12, 12]](%257) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %379 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%258, %380, %381)
+  %263 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%379) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %264 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[12]](%263) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %265 : Float(1, 24, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%259, %264) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %382 : Float(1, 24, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%265, %383, %384)
+  %268 : Float(1, 24, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%382) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %269 : Float(1, 12, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu), %270 : Float(1, 12, 7, 7, strides=[1176, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[12, 12]](%268) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %385 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%269, %386, %387)
+  %273 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%385) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %274 : Float(1, 12, 7, 7, strides=[588, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[12]](%273) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %275 : Float(1, 48, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%239, %260, %270, %274) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %388 : Float(1, 48, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%275, %389, %390)
+  %278 : Float(1, 48, 7, 7, strides=[2352, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%388) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %279 : Float(1, 96, 7, 7, strides=[4704, 49, 7, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%242, %252, %263, %273, %278) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:181:0
+  %391 : Float(1, 96, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[2, 2]](%279, %392, %393)
+  %282 : Float(1, 96, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%391) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %283 : Float(1, 24, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu), %284 : Float(1, 24, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu), %285 : Float(1, 24, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu), %286 : Float(1, 24, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[24, 24, 24, 24]](%282) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %394 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%283, %395, %396)
+  %289 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%394) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %290 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[24]](%289) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %291 : Float(1, 48, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%284, %290) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %397 : Float(1, 48, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%291, %398, %399)
+  %294 : Float(1, 48, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%397) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %295 : Float(1, 24, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu), %296 : Float(1, 24, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[24, 24]](%294) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %400 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%295, %401, %402)
+  %299 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%400) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %300 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[24]](%299) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %301 : Float(1, 72, 4, 4, strides=[1152, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%285, %296, %300) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %403 : Float(1, 72, 4, 4, strides=[1152, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%301, %404, %405)
+  %304 : Float(1, 72, 4, 4, strides=[1152, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%403) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %305 : Float(1, 24, 4, 4, strides=[1152, 16, 4, 1], requires_grad=0, device=cpu), %306 : Float(1, 24, 4, 4, strides=[1152, 16, 4, 1], requires_grad=0, device=cpu), %307 : Float(1, 24, 4, 4, strides=[1152, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[24, 24, 24]](%304) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %406 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%305, %407, %408)
+  %310 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%406) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %311 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[24]](%310) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %312 : Float(1, 48, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%306, %311) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %409 : Float(1, 48, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%312, %410, %411)
+  %315 : Float(1, 48, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%409) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %316 : Float(1, 24, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu), %317 : Float(1, 24, 4, 4, strides=[768, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[24, 24]](%315) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %412 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%316, %413, %414)
+  %320 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%412) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %321 : Float(1, 24, 4, 4, strides=[384, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Split[axis=1, split=[24]](%320) # /home/u2127085/.local/lib/python3.8/site-packages/torch/_tensor.py:510:0
+  %322 : Float(1, 96, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%286, %307, %317, %321) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:168:0
+  %415 : Float(1, 96, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Conv[dilations=[1, 1], group=1, kernel_shape=[3, 3], pads=[1, 1, 1, 1], strides=[1, 1]](%322, %416, %417)
+  %325 : Float(1, 96, 4, 4, strides=[1536, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Clip[max=6., min=0.](%415) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1348:0
+  %326 : Float(1, 192, 4, 4, strides=[3072, 16, 4, 1], requires_grad=0, device=cpu) = onnx::Concat[axis=1](%289, %299, %310, %320, %325) # /home/u2127085/United-Perception/up/models/backbones/kingnet.py:181:0
+  %327 : Float(1, 192, 1, 1, strides=[192, 1, 1, 1], requires_grad=0, device=cpu) = onnx::GlobalAveragePool(%326) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1131:0
+  %328 : Float(1, 192, strides=[192, 1], requires_grad=0, device=cpu) = onnx::Flatten[axis=1](%327) # /home/u2127085/United-Perception/up/tasks/cls/models/heads/cls_head.py:77:0
+  %329 : Float(1, 89, strides=[89, 1], requires_grad=0, device=cpu) = onnx::Gemm[alpha=1., beta=1., transB=1](%328, %detector.head.classifier.weight, %detector.head.classifier.bias) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1848:0
+  %scores : Float(1, 89, strides=[89, 1], requires_grad=0, device=cpu) = onnx::Softmax[axis=1](%329) # /home/u2127085/.local/lib/python3.8/site-packages/torch/nn/functional.py:1680:0
+  return (%scores)
+
+2022-12-07 11:22:19,749-rk0-toonnx_helper.py#128:=============toonnx done=================
